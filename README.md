@@ -28,11 +28,12 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
 ```sh
- git clone https://github.com/kaushalsahu07/weather.git
+ git clone https://github.com/Saikrishnan0/weather-app.git
+
 ```
 2. Navigate to the project directory:
 ```sh 
-cd weather
+cd weather-app
 ```
 3. Change API key for all the js files
 ```javascript
